@@ -1,3 +1,5 @@
+![Banner](https://github.com/GuyEldad/GuyEldad/blob/main/GE.png?raw=true)
+
 ## 💫 About Me
 #### I'm a Security Analyst specializing in cybersecurity and incident response, here to share my knowledge and experience.
 
