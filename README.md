@@ -1,13 +1,13 @@
 # 💫 About Me:
-I'm a Security Analyst specializing in cybersecurity and incident response, here to share my knowledge and experience.
+# I'm a Security Analyst specializing in cybersecurity and incident response, here to share my knowledge and experience.
 
 ## My Projects
 
-### ⚙️ [Documentation](https://github.com/GuyEldad/Documentation)
-A collection of guides, resources, and documentation related to cybersecurity and incident response.
+### 📖 [Documentation](https://github.com/GuyEldad/Documentation)
+# A collection of guides, resources, and documentation related to cybersecurity and incident response.
 
-### 📝 [WBHistory2CSV](https://github.com/GuyEldad/WBHistory2CSV)
-A tool to parse web browsing and download history and export it to a CSV file.
+### 🔍 [WBHistory2CSV](https://github.com/GuyEldad/WBHistory2CSV)
+# A tool to parse web browsing and download history and export it to a CSV file.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guy-eldad/) 
