@@ -20,7 +20,7 @@
 ---
 
 ## 🌐 Socials:
-[<img src="your-uploaded-image-path/LinkedInLogo.png" alt="LinkedIn" width="40px">](https://www.linkedin.com/in/guy-eldad/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@9.6.0/icons/linkedin.svg" alt="LinkedIn" width="40px" height="40px">](https://www.linkedin.com/in/guy-eldad/)
 
 ---
 
