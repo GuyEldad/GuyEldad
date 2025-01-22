@@ -20,9 +20,7 @@
 ---
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/guy-eldad/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40px" style="vertical-align:middle;">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guy-eldad/) 
 
 ---
 
