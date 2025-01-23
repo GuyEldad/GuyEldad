@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat)
+
+
 <p align="center">
   <img src="https://github.com/GuyEldad/GuyEldad/blob/main/GE.png?raw=true" alt="Banner">
 </p>
