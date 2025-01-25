@@ -12,7 +12,7 @@
 ## 💼 My Projects
 
 ### 📖 [Documentation](https://github.com/GuyEldad/Documentation)
-- A collection of guides, resources, and documentation related to cybersecurity and incident response.
+- A collection of guides, resources, and challenge write-ups related to cybersecurity and incident response.
 
 ### 🔍 [WBHistory2CSV](https://github.com/GuyEldad/WBHistory2CSV)
 - A tool to parse web browsing and download history and export it to a CSV file.
