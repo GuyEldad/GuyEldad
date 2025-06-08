@@ -5,7 +5,8 @@
 ---
 
 ## 💫 About Me
-#### I'm a Security Analyst specializing in cybersecurity and incident response, here to share my knowledge and experience.
+#### I'm an **Incident Response professional** with a passion for cybersecurity, digital forensics, and threat hunting.  
+Here to share my knowledge, tools, and challenges in the world of cybersecurity investigations.
 
 ---
 
