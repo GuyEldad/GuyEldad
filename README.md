@@ -16,7 +16,7 @@ Here to share my knowledge, tools, and challenges in the world of cybersecurity 
 - A collection of guides, resources, and challenge write-ups related to cybersecurity and incident response.
 
 ### 🔍 [WBHistory2CSV](https://github.com/GuyEldad/WBHistory2CSV)
-- A forensic tool that parses web browsing and download history and exports it into clean CSV files for easy analysis.
+- A forensic tool that parses web browsing and download history and exports it into CSV files for easy analysis.
 
 ---
 
