@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-#### I'm an Incident Response Specialist with a passion for cybersecurity, digital forensics, and threat hunting.  
+#### I'm an Incident Response Expert with a passion for cybersecurity, digital forensics, and threat hunting.  
 Here to share my knowledge, tools, and challenges in the world of cybersecurity investigations.
 
 ---
