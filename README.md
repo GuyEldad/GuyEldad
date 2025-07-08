@@ -18,7 +18,7 @@ Here to share my knowledge, tools, and challenges in the world of cybersecurity 
 ### 🔍 [WBHistory2CSV](https://github.com/GuyEldad/WBHistory2CSV)
 - A forensic tool that parses web browsing and download history and exports it into CSV files for easy analysis.
 
-- ### 🕵️‍♂️ [ShadowExtension](https://github.com/GuyEldad/ShadowExtension)
+### 🕵️‍♂️ [ShadowExtension](https://github.com/GuyEldad/ShadowExtension)
 - A forensic tool to detect potentially malicious browser extensions in Chrome, Edge, Firefox, Brave, Vivaldi, and Opera by analyzing permissions, host access, and suspicious code behavior.
 
 ---
