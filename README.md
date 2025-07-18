@@ -19,7 +19,7 @@ Here to share my knowledge, tools, and challenges in the world of cybersecurity 
 - A forensic tool that parses web browsing and download history and exports it into CSV files for easy analysis.
 
 ### 🕵️‍♂️ [ShadowExtension](https://github.com/GuyEldad/ShadowExtension)
-- A forensic tool for detecting potentially malicious browser extensions across all major browsers by analyzing permissions and code behavior.
+- A forensic tool for detecting potentially malicious browser extensions across all major browsers by analyzing permissions and code patterns.
 
 ---
 
