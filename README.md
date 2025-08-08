@@ -21,7 +21,7 @@ Here to share my knowledge, tools, and challenges in the world of cybersecurity 
 ### 🕵️‍♂️ [ShadowExtension](https://github.com/GuyEldad/ShadowExtension)
 - A forensic tool for detecting potentially malicious browser extensions across all major browsers by analyzing permissions and code patterns.
 
-🧵 **[StringsExtractor](https://github.com/GuyEldad/StringsExtractor)**  
+###🧵 [StringsExtractor](https://github.com/GuyEldad/StringsExtractor) 
 A tool that parses `strings` output files and extracts and categorizes strings to quickly reveal suspicious patterns and indicators.
 
 ---
