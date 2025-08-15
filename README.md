@@ -24,6 +24,9 @@ Here to share my knowledge, tools, and challenges in the world of cybersecurity 
 ### 🧵 [StringsExtractor](https://github.com/GuyEldad/StringsExtractor) 
 - A tool that parses `Strings` output files and extracts and categorizes strings to quickly reveal suspicious patterns and indicators.
 
+### 🪪 [HashHunter](https://github.com/GuyEldad/HashHunter)
+- Hash scanning tool compatible with legacy Windows systems and newer versions.
+
 ---
 
 ## 🌐 Socials:
