@@ -12,20 +12,23 @@ Here to share my knowledge, tools, and challenges in the world of cybersecurity 
 
 ## 💼 My Projects
 
-### 📖 [Documentation](https://github.com/GuyEldad/Documentation)
-- A collection of guides, resources, and challenge write-ups related to cybersecurity and incident response.
-
 ### 🔍 [WBHistory2CSV](https://github.com/GuyEldad/WBHistory2CSV)
 - A forensic tool that parses web browsing and download history and exports it into CSV files for easy analysis.
 
 ### 🕵️‍♂️ [ShadowExtension](https://github.com/GuyEldad/ShadowExtension)
 - A forensic tool for detecting potentially malicious browser extensions across all major browsers by analyzing permissions and code patterns.
 
+### 📋 [PlistParser](https://github.com/GuyEldad/PlistParser)
+- A forensic tool for parsing macOS property list (plist) files in binary and XML formats for easy analysis.
+
 ### 🧵 [StringsExtractor](https://github.com/GuyEldad/StringsExtractor) 
 - A tool that parses `Strings` output files and extracts and categorizes strings to quickly reveal suspicious patterns and indicators.
 
 ### 🪪 [HashHunter](https://github.com/GuyEldad/HashHunter)
 - Hash scanning tool compatible with legacy Windows systems and newer versions.
+
+### 📖 [Documentation](https://github.com/GuyEldad/Documentation)
+- A collection of guides, resources, and challenge write-ups related to cybersecurity and incident response.
 
 ---
 
