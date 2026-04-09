@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GuyEldad/GuyEldad/blob/main/GE.png?raw=true" alt="Banner">
+  <img src="https://github.com/GuyEldad/GuyEldad/blob/main/GE.svg?raw=true" alt="Banner">
 </p>
 
 ---
