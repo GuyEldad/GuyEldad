@@ -12,6 +12,9 @@ Here to share my knowledge, tools, and challenges in the world of cybersecurity 
 
 ## 💼 My Projects
 
+### 🐧 [LinuxPersist](https://github.com/GuyEldad/LinuxPersist)
+- A forensic tool for detecting Linux persistence artifacts across live systems and offline triage collections.
+
 ### 🔍 [WBHistory2CSV](https://github.com/GuyEldad/WBHistory2CSV)
 - A forensic tool that parses web browsing and download history and exports it into CSV files for easy analysis.
 
